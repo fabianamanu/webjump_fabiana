@@ -1,0 +1,10 @@
+[10-Jul-2019 13:21:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/termometro/public_html/novo/functions/functions.php:15
+Stack trace:
+#0 /home/termometro/public_html/novo/acess.php(2): include()
+#1 {main}
+  thrown in /home/termometro/public_html/novo/functions/functions.php on line 15
+[10-Jul-2019 13:29:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/termometro/public_html/novo/functions/functions.php:15
+Stack trace:
+#0 /home/termometro/public_html/novo/acess.php(2): include()
+#1 {main}
+  thrown in /home/termometro/public_html/novo/functions/functions.php on line 15
